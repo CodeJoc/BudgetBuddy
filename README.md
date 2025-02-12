@@ -1,0 +1,2 @@
+# BudgetBuddy
+An Expense tracker
